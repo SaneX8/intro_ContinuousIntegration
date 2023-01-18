@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Add a test workflow</h2></summary>
 
 _Welcome to "GitHub Actions: Continuous Integration"! :wave:_
@@ -124,7 +124,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 
 ### :keyboard: Activity: Fix the test
 
-1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
+1. Update the code in the _ci_ branch to get the test to pass. You need to look something like this:
    ```markdown
    _underscore_
    ```
@@ -139,7 +139,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Upload test reports</h2></summary>
 
 _The workflow has finished running! :sparkles:_
